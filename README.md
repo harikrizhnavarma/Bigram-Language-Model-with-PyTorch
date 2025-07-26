@@ -1,6 +1,6 @@
 ## 🧠 Bigram Language Model with PyTorch 🔥
 
-A simple yet powerful character-level language model inspired by Andrej Karpathy's "nanoGPT" — built from scratch using PyTorch. This project demonstrates how neural networks can learn to generate text one character at a time, using just bigram (2-character) relationships!
+A simple yet powerful character-level language model, built from scratch using PyTorch. This project demonstrates how neural networks can learn to generate text one character at a time, using just bigram (2-character) relationships!
 
 ### 🔧 What’s Inside
 ✅ Clean data preprocessing with character-to-index encoding
